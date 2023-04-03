@@ -17,7 +17,7 @@ export default function Home() {
         Hello world
         <br></br>
         <Button></Button>
-        <Card data={{ text: 'texto enviado por props', color: '#ff0000' }}></Card>
+        <Card data={{ text: 'texto enviado por props', colortexto: 'red' }}></Card>
       </main>
     </>
   )
